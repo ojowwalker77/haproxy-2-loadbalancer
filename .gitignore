@@ -1,0 +1,4 @@
+errors/*
+*.json
+*.lst
+*.cfg
